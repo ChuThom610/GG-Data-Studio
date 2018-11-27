@@ -16,4 +16,4 @@ Tạo báo cáo chuyên nghiệp như dân "bro" với dịch vụ Google Data S
 * [Google Data Studio](https://urekamedia.com/news/google-data-studio-cac-ly-do-khong-the-bo-qua/)
 
 ### Một số sản phẩm xây dựng được
-* [Khai thác data sách mềm](https://datastudio.google.com/u/0/reporting/1KxBhW1RNNFS-n__fHrVSdzBei5kmiaxJ/page/o7wb)
+* [Khai thác data bán lẻ](https://datastudio.google.com/u/0/reporting/1KxBhW1RNNFS-n__fHrVSdzBei5kmiaxJ/page/o7wb)
